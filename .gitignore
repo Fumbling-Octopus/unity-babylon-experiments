@@ -1,0 +1,26 @@
+# Node dependencies and local configuration
+**/node_modules/
+.env
+.env.*
+*.log
+# Unity generated files (keep Assets .meta files)
+unity/[Ll]ibrary/
+unity/[Tt]emp/
+unity/[Oo]bj/
+unity/[Bb]uild/
+unity/[Bb]uilds/
+unity/[Ll]ogs/
+unity/[Uu]ser[Ss]ettings/
+unity/[Mm]emoryCaptures/
+unity/[Rr]ecordings/
+*.csproj
+*.sln
+*.suo
+*.user
+.vs/
+.idea/
+# OS metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
